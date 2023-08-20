@@ -1,0 +1,11 @@
+symbol,name,current_price,change,percent_change
+AAPL,Apple Inc.,150.5,2.0,1.34
+GOOGL,Alphabet Inc.,2500.0,-10.0,-0.40
+AMZN,Amazon.com Inc.,3500.0,15.5,0.44
+TSLA,Tesla Inc.,700.0,-5.0,-0.71
+MSFT,Microsoft Corporation,300.0,3.0,1.01
+NFLX,Netflix Inc.,550.0,7.5,1.38
+FB,Facebook Inc.,350.0,-2.5,-0.71
+NVDA,NVIDIA Corporation,200.0,8.0,4.17
+AMC,AMC Entertainment Holdings Inc.,40.0,-1.0,-2.44
+GM,General Motors Company,55.0,2.0,3.77

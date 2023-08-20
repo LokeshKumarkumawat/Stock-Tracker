@@ -1,0 +1,11 @@
+id,user_id,stock_symbol,quantity,average_price
+1,1,AAPL,10,150.5
+2,1,GOOGL,5,2500.0
+3,2,AMZN,8,3500.0
+4,3,TSLA,15,700.0
+5,4,MSFT,20,300.0
+6,5,AAPL,12,160.0
+7,6,GOOGL,3,2550.0
+8,7,AMZN,5,3550.0
+9,8,TSLA,8,720.0
+10,9,MSFT,25,310.0
